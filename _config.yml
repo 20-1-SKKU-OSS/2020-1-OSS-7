@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "2020 OSS - 7"
+title: "2020 OSS - 7"
+description: "SKKU 2020년도 OSS 실습 7조의 개발일지"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 remote_theme: wowthemesnet/jekyll-theme-memoirs
@@ -15,14 +15,14 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  hojoon0205:
+    name: Ryou Ho Joon
+    display_name: hojoon0205
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: hojoon0205@gmail.com
+    web: https://hojoon0205.github.io
+    twitter: https://twitter.com/ZATdwetne
+    description: "Project Manager"
   john:
     name: John
     display_name: John    
