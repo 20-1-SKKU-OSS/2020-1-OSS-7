@@ -30,7 +30,7 @@ toc: true
     - 위키에는 각 알고리즘 별로 간단한 소개 혹은 구체적인 작동과정 등을 작성한다.
     - 원본 위키는 내용이 상당히 부실하기 때문에 양이 꽤 많을 것으로 예상된다.
     - 알고리즘 설명 말고도 번역으로도 기여할 수 있을 것이다.
-- 김정재([kimjeongjae929](https://github.com/kimjeongjae929)), 김태훈([mistercoin](https://github.com/mistercoin)): 코드 리뷰 및 이슈 관리
+- 김정재([kimjeongjae929](https://github.com/kimjeongjae929)), 김태훈([mistercoin818](https://github.com/mistercoin818)): 코드 리뷰 및 이슈 관리
     - 코드를 기여할 때 지켜야 할 주의사항들을 이슈에 써놓는다.
         - 이 이슈들은 원본 프로젝트의 [contribution guideline](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md)을 참고하여 작성하도록 한다.
     - Pull Request가 들어올 때 마다 기여자가 미리 명시해놓은 기여사항들을 제대로 준수하였는지 리뷰하는 역할을 담당한다.
