@@ -79,10 +79,10 @@ void double_linked_list::insert(int x, int order){
   }
 
   if(order == 0)
-    insert_first(x);
+    double_linked_list::insert_first(x);
 
   else if(order == len)
-    insert_last(x);
+    double_linked_list::insert_last(x);
 
   else{
     for(int i = 0; i < order; i++)
