@@ -1,4 +1,3 @@
-
 ## Arithmetic Analysis
   * [Bisection](https://github.com/TheAlgorithms/Python/blob/master/arithmetic_analysis/bisection.py)
   * [Gaussian Elimination](https://github.com/TheAlgorithms/Python/blob/master/arithmetic_analysis/gaussian_elimination.py)
