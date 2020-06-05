@@ -13,14 +13,16 @@ class double_linked_list {
   double_linked_list() {
     start = NULL;
   }
-  void insert(int x);
+  void insert_first(int x);
+  void insert_last(int x);
+  void insert(int x, int order);
   void remove(int x);
   void search(int x);
   void show();
   void reverseShow();
 };
 
-void double_linked_list::insert(int x) {
+void double_linked_list::insert_last(int x) {
   node *t = start;
   if (start != NULL) {
     while (t->next != NULL) {
@@ -39,6 +41,64 @@ void double_linked_list::insert(int x) {
     start = n;
   }
 }
+
+void double_linked_list::insert_first(int x){
+  node* t = start;
+
+  if(start != NULL){
+    node* n = new node;
+    n->next = start;
+    n->prev = NULL;
+    n->val = x;
+
+    start = n;
+  }
+  else{
+    node* n = new node;
+    n->val = x;
+    n->prev = NULL;
+    n->next = NULL;
+    start = n;
+  }
+}
+
+void double_linked_list::insert(int x, int order){
+  node* t = start;
+
+  int len = 0;
+  while(t != NULL){
+    t = t->next;
+    len++;
+  }
+
+  t = start;
+  
+  if(order > len){
+    std::cout << "The order is too big\n";
+    return;
+  }
+
+  if(order == 0)
+    double_linked_list::insert_first(x);
+
+  else if(order == len)
+    double_linked_list::insert_last(x);
+
+  else{
+    for(int i = 0; i < order; i++)
+      t = t->next;
+    node* n = new node;
+
+    n->val = x;
+    n->next = t;
+    n->prev = t->prev;
+
+    t->prev->next = n;
+    t->prev = n;
+
+  }
+}
+
 
 void double_linked_list::remove(int x) {
   node *t = start;
