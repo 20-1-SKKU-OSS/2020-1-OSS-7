@@ -427,6 +427,8 @@
   * [Tower Of Hanoi](https://github.com/TheAlgorithms/Python/blob/master/other/tower_of_hanoi.py)
   * [Two Sum](https://github.com/TheAlgorithms/Python/blob/master/other/two_sum.py)
   * [Word Patterns](https://github.com/TheAlgorithms/Python/blob/master/other/word_patterns.py)
+  * [Server](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/Python/other/server.py)
+  * [Client](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/Python/other/client.py)
 
 ## Project Euler
   * Problem 01

@@ -26,3 +26,4 @@ print('Received Data: {}, from {}'.format(data.decode('utf-8'), addr))
 socket_connection.send(data)
 
 server_socket.close()
+

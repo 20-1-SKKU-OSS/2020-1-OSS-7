@@ -19,9 +19,13 @@
 
 ## Data Structure
   * [Avltree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/AVLtree.cpp)
+	- Self-balancing binary search tree. The heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take O(log n) time in both the average and worst cases, where n is the number of nodes in the tree prior to the operation.
   * [Binary Search Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Binary%20Search%20Tree.cpp)
+	- Rooted binary tree whose internal nodes each store a key and each has two distinguished sub-trees. The key in each node is greater than or equal to any key stored in the left sub-tree, and less than or equal to any key stored in the right subtree.
   * [Binaryheap](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Binaryheap.cpp)
+	- A way of implementing priority queues. A binary heap is complete binary tree and the key stored in each node is either greater than or equal to or less than or equal to the keys in the node's children, according to some total order. To insert, perform an up-heap operation; add the element to the bottom level of the heap at the most left and compare the added element with its parent; if they are in the correct order, stop but not, swap the element with its parent and return to the previous step. To extract, replace the root of the heap with the last element on the last level and compare the new root with its children; if they are in the correct order, stod, if not, swap the element with one of its children and return to the previous step.
   * [Circular Queue Using Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/circular_Queue_using_Linked_List.cpp)
+	- 
   * Cll
     * [Cll](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/cll/cll.cpp)
     * [Cll](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/cll/cll.h)
