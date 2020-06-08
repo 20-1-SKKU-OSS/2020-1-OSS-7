@@ -12,7 +12,7 @@ int factorial (int n){
 }
 
 int main(){
-	int num, res;
+	int num;
 	cout << "Enter number = ";
 	cin >> num;
 	cout << "Factorial of number is = " << factorial(num);
