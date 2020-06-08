@@ -306,7 +306,10 @@
   * [Polymonial Regression](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/polymonial_regression.py)
 	- Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x).
   * [Random Forest Classifier](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_classifier.py)
+	-  Random forest is an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.
+	- Using iris dataset for Random Forest Classifier example from sklearn.
   * [Random Forest Regressor](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_regressor.py)
+	- Using Boston house price dataset for Random Forest Regressor Example from sklearn.
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
