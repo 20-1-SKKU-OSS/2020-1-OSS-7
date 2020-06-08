@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TheAlgorithms - 1주차 결과 보고"
+title:  "TheAlgorithms - 2주차 결과 보고"
 author: hojoon0205
 categories: [ Report ]
 beforetoc: "2020/06/01 ~ 2020/06/08 까지의 프로젝트 수행 내역"
