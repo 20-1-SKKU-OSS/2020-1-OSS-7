@@ -316,6 +316,7 @@
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
 	- Implementation of sequential minumul(SMO) for support vector machine(SVM). Sequential minimul optimization is an algorithm for solving the quadratic programming problem that arises during the training of supprot vector machines.
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
+	- Support Vector Machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier. An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on the side of the gap on which they fall. 
 
 ## Maths
   * [3N Plus 1](https://github.com/TheAlgorithms/Python/blob/master/maths/3n_plus_1.py)
