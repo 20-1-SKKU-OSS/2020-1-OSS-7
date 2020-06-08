@@ -311,6 +311,8 @@
   * [Random Forest Regressor](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_regressor.py)
 	- Using Boston house price dataset for Random Forest Regressor Example from sklearn.
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
+	- In decision theory, a score function measures the accuracy of probabilistic predictions. 
+	- MAE(Mean Absolute Error), MSE(mean Squared Error), RMSE(Root Mean Squared Error), RMSLE(Root Mean Square Logarithmic Error) are included. Those are used for calculating differences between predicted values and actual values. Using log and roots can be preceived as tools for penalizing big errors.
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
 
