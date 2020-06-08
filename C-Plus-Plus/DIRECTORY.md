@@ -173,6 +173,7 @@
   * [Fenwicktree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/FenwickTree.cpp)
   * [Mo](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/MO.cpp)
   * [Segtree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/segTree.cpp)
+  * [Segment Tree with Template](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/range_queries/SegTree_template.cpp)
 
 ## Search
   * [Binary Search](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/binary_search.cpp)
