@@ -304,6 +304,7 @@
 	- Multilayer perceptron is a class of feedforward artificial neural network(ANN). An MLP consists of at least three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training. Its multiple layers and non-linear perceptron. It can distinguish data that is not linearly separable.
 	- Here use MLPClassfier from sklearn.neural_network 
   * [Polymonial Regression](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/polymonial_regression.py)
+	- Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x).
   * [Random Forest Classifier](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_classifier.py)
   * [Random Forest Regressor](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_regressor.py)
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
