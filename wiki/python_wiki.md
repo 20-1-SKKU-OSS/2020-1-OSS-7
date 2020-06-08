@@ -314,6 +314,7 @@
 	- In decision theory, a score function measures the accuracy of probabilistic predictions. 
 	- MAE(Mean Absolute Error), MSE(mean Squared Error), RMSE(Root Mean Squared Error), RMSLE(Root Mean Square Logarithmic Error) are included. Those are used for calculating differences between predicted values and actual values. Using log and roots can be preceived as tools for penalizing big errors.
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
+	- Implementation of sequential minumul(SMO) for support vector machine(SVM). Sequential minimul optimization is an algorithm for solving the quadratic programming problem that arises during the training of supprot vector machines.
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
 
 ## Maths
