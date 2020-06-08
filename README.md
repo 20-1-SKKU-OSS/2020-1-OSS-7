@@ -12,24 +12,24 @@ https://20-1-skku-oss.github.io/2020-1-OSS-7/
 ## <div id = "Members">팀원 소개</div>
 ### 팀장 
 이름 : 류호준<br>
-학번 : <br>
-이메일 : <br>
+학번 : 2016312332<br>
+이메일 : hojoon0205@gmail.com<br>
 깃허브 아이디 : hojoon0205<br>
 
 ### 팀원
 이름 : 강은수<br>
-학번 : <br>
-이메일 : <br>
+학번 : 2019312406<br>
+이메일 : kanges103802@gmail.com<br>
 깃허브 아이디 : Kang-Eunsu<br>
 
 이름 : 김정재<br>
-학번 : <br>
-이메일 : <br>
+학번 : 2019314549<br>
+이메일 : 1jeongjae@naver.com<br>
 깃허브 아이디 : kimjeongjae929<br>
 
 이름 : 김태훈<br>
-학번 : <br>
-이메일 : <br>
+학번 : 2018311486<br>
+이메일 : mistercoin@naver.com<br>
 깃허브 아이디 : mistercoin818<br>
 
 이름 : 이동희<br>
@@ -48,8 +48,8 @@ https://20-1-skku-oss.github.io/2020-1-OSS-7/
 
 ## <div id="plan">활동 계획</div>
 >  * 2020.05 : project 주제 선정
->  * 2020.06 1주차 :
->  * 2020.06 2주차 : 
+>  * 2020.06 1주차 : 팀원 개인 별 코드 기여, wiki page와 정적 page 작성
+>  * 2020.06 2주차 : 최종 프로젝트 마무리
 
 
 ## <div id="How_TO_contribute">팀원 별 역할</div>
