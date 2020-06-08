@@ -108,6 +108,7 @@
 
 ## Math
   * [Factorial](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Math/factorial.cpp)
+  * [Factorial_using_recursion](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/Math/factorial_usingrecursion.cpp)
 
 ## Math
   * [Factorial](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/factorial.cpp)
