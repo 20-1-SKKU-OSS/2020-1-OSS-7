@@ -5,6 +5,7 @@
   * [Minimax](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/minimax.cpp)
   * [N Queens](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/n_queens.cpp)
   * [N Queens All Solution Optimised](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/n_queens_all_solution_optimised.cpp)
+  * [N Queens Number of Solutions Bit Optimized](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/backtracking/n_queens_number_of_solutions_bit_optimized.cpp)
   * [Nqueen Print All Solutions](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/nqueen_print_all_solutions.cpp)
   * [Rat Maze](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/rat_maze.cpp)
   * [Sudoku Solve](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/sudoku_solve.cpp)
@@ -107,6 +108,7 @@
 
 ## Math
   * [Factorial](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/Math/factorial.cpp)
+  * [Factorial_using_recursion](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/Math/factorial_usingrecursion.cpp)
 
 ## Math
   * [Factorial](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/factorial.cpp)
@@ -114,6 +116,7 @@
   * [Fibonacci](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/fibonacci.cpp)
   * [Greatest Common Divisor](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/greatest_common_divisor.cpp)
   * [Greatest Common Divisor Euclidean](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/greatest_common_divisor_euclidean.cpp)
+  * [Greatest Common Divisor Short Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/math/greatest_common_divisor_short_code.cpp)
   * [Modular Inverse Fermat Little Theorem](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/modular_inverse_fermat_little_theorem.cpp)
   * [Number Of Positive Divisors](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/number_of_positive_divisors.cpp)
   * [Power For Huge Numbers](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/math/power_for_huge_numbers.cpp)
@@ -216,3 +219,27 @@
   * [Brute Force String Searching](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/strings/brute_force_string_searching.cpp)
   * [Knuth Morris Pratt](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/strings/knuth_morris_pratt.cpp)
   * [Rabin Karp](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/strings/rabin_karp.cpp)
+
+## Problems from [BOJ](https://acmicpc.net)
+  * [1187](https://acmicpc.net/problem/1187), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1187.cpp)
+  * [1626](https://acmicpc.net/problem/1626), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1626.cpp)
+  * [2419](https://acmicpc.net/problem/2419), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/2419.cpp)
+  * [4357](https://acmicpc.net/problem/4357), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/4357.cpp)
+  * [8452](https://acmicpc.net/problem/8452), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/8452.cpp)
+  * [10327](https://acmicpc.net/problem/10327), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/10327.cpp)
+  * [11030](https://acmicpc.net/problem/11030), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/11030.cpp)
+  * [11808](https://acmicpc.net/problem/11808), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/11808.cpp)
+  * [11840](https://acmicpc.net/problem/11840), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/11840.cpp)
+  * [12728](https://acmicpc.net/problem/12728), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/12728.cpp)
+  * [12930](https://acmicpc.net/problem/12930), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/12930.cpp)
+   * [14888](https://acmicpc.net/problem/14888), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/14888.cpp)
+  * [15879](https://acmicpc.net/problem/15879), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/15879.cpp)
+  * [15896](https://acmicpc.net/problem/15896), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/15896.cpp)
+  * [16409](https://acmicpc.net/problem/16409), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/16409.cpp)
+  * [17351](https://acmicpc.net/problem/17351), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/17351.cpp)
+  * [17424](https://acmicpc.net/problem/17424), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/17424.cpp)
+  * [18123](https://acmicpc.net/problem/18123), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/18123.cpp)
+  * [18342](https://acmicpc.net/problem/18342), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/18342.cpp)
+  * [18790](https://acmicpc.net/problem/18790), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/18790.cpp)
+  * [18792](https://acmicpc.net/problem/18792), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/18792.cpp)
+  
