@@ -9,7 +9,7 @@ int MAX = -1000000000;
 int MIN = 1000000000;
 
 
-void bfs(int index, int add, int sub, int multi, int divide, int total)
+void dfs(int index, int add, int sub, int multi, int divide, int total)
 {
 
 	if (index == N)
@@ -18,13 +18,13 @@ void bfs(int index, int add, int sub, int multi, int divide, int total)
 		MIN = min(MIN, total);
 	}
 	if (add < b[0])
-		bfs(index + 1, add + 1, sub, multi, divide, total + a[index]);
+		dfs(index + 1, add + 1, sub, multi, divide, total + a[index]);
 	if (sub < b[1])
-		bfs(index + 1, add, sub + 1, multi, divide, total - a[index]);
+		dfs(index + 1, add, sub + 1, multi, divide, total - a[index]);
 	if (multi < b[2])
-		bfs(index + 1, add, sub, multi + 1, divide, total * a[index]);
+		dfs(index + 1, add, sub, multi + 1, divide, total * a[index]);
 	if (divide < b[3])
-		bfs(index + 1, add, sub, multi, divide + 1, total / a[index]);
+		dfs(index + 1, add, sub, multi, divide + 1, total / a[index]);
 }
 int main(void)
 {
@@ -34,7 +34,7 @@ int main(void)
 	for (int i = 0; i < 4; i++)
 		cin >> b[i];
 
-	bfs(1, 0, 0, 0, 0, a[0]);
+	dfs(1, 0, 0, 0, 0, a[0]);
 
 	cout << MAX << endl;
 	cout<< MIN << endl;
