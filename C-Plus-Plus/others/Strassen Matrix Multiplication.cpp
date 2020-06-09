@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-Multiply(int A[][], int B[][], int n)
+void Multiply(int A[][], int B[][], int n)
 {
 	if (n == 2)
 	{

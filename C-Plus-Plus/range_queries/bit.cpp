@@ -1,6 +1,7 @@
 // Binary Indexed Tree.
 #include <iostream>
-
+#include <vector>
+#include <assert.h>
 using namespace std;
 
 class Bit
@@ -12,17 +13,16 @@ class Bit
         return (x & (-x));
     }
 
-    public:
-
-        Bit(vector<int>& arr)
-	{
-            n = arr.size();
-            bit.assign(n + 1, 0);
-            for (int i = 0; i < n; ++i)
-	    {
-                update(i, arr[i]);
-            }
+public:
+    Bit(vector<int> &arr)
+    {
+        n = arr.size();
+        bit.assign(n + 1, 0);
+        for (int i = 0; i < n; ++i)
+        {
+            update(i, arr[i]);
         }
+    }
     Bit(int x)
     {
         n = x;
@@ -34,7 +34,7 @@ class Bit
         // Add val at id
         id++;
         while (id <= n)
-	{
+        {
             bit[id] += val;
             id += offset(id);
         }
@@ -46,7 +46,7 @@ class Bit
         id++;
         int res = 0;
         while (id > 0)
-	{
+        {
             res += bit[id];
             id -= offset(id);
         }
@@ -62,7 +62,7 @@ class Bit
 int main()
 {
     int n = 5;
-    vector<int> arr = { 1, 2, 3, 4, 5 };
+    vector<int> arr = {1, 2, 3, 4, 5};
     Bit x(arr);
 
     assert(x.sum_range(0, 0) == 1);
@@ -72,5 +72,5 @@ int main()
     assert(x.sum_range(0, 0) == 6);
     assert(x.sum_range(0, 1) == 8);
     assert(x.sum_range(0, 2) == 11);
-	return 0;
+    return 0;
 }
