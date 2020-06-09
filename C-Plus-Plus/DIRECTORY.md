@@ -93,6 +93,7 @@
 
 ## Greedy Algorithms
   * [Dijkstra](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/greedy_algorithms/Dijkstra.cpp)
+  * [Dijkstra_nlogn](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/greedy_algorithms/Dijkstra_nlogn.cpp) 
   * [Huffman](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/greedy_algorithms/huffman.cpp)
   * [Knapsack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/greedy_algorithms/Knapsack.cpp)
   * [Kruskals Minimum Spanning Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/greedy_algorithms/Kruskals%20Minimum%20Spanning%20Tree.cpp)
@@ -214,6 +215,7 @@
   * [Oddeven Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/OddEven%20Sort.cpp)
   * [Quick Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Quick%20Sort.cpp)
   * [Radix Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Radix%20Sort.cpp)
+  * [RadixSort_new](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/RadixSort_new.cpp)
   * [Selection Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Selection%20Sort.cpp)
   * [Shell Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Shell%20Sort.cpp)
   * [Slow Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Slow%20Sort.cpp)
