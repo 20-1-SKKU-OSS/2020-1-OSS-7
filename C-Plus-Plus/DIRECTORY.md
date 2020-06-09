@@ -223,6 +223,7 @@
 ## Problems from [BOJ](https://acmicpc.net)
   * [1187](https://acmicpc.net/problem/1187), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1187.cpp)
   * [1626](https://acmicpc.net/problem/1626), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1626.cpp)
+  * [1697](https://acmicpc.net/problem/1697), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1697.cpp)
   * [2419](https://acmicpc.net/problem/2419), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/2419.cpp)
   * [4357](https://acmicpc.net/problem/4357), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/4357.cpp)
   * [8452](https://acmicpc.net/problem/8452), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/8452.cpp)
