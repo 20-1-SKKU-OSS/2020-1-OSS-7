@@ -25,8 +25,8 @@ pol_reg = LinearRegression()
 pol_reg.fit(X_poly, y)
 
 
-# Visualizing the Polymonial Regression results
-def viz_polymonial():
+# Visualizing the Polynomial Regression results
+def viz_polynomial():
     plt.scatter(X, y, color="red")
     plt.plot(X, pol_reg.predict(poly_reg.fit_transform(X)), color="blue")
     plt.title("Truth or Bluff (Linear Regression)")
@@ -37,8 +37,8 @@ def viz_polymonial():
 
 
 if __name__ == "__main__":
-    viz_polymonial()
+    viz_polynomial()
 
-    # Predicting a new result with Polymonial Regression
+    # Predicting a new result with Polynomial Regression
     pol_reg.predict(poly_reg.fit_transform([[5.5]]))
     # output should be 132148.43750003
