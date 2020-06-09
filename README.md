@@ -18,28 +18,28 @@ https://20-1-skku-oss.github.io/2020-1-OSS-7/
 이름 : 류호준<br>
 학번 : 2016312332<br>
 이메일 : hojoon0205@gmail.com<br>
-깃허브 아이디 : hojoon0205<br>
+깃허브 아이디 : [hojoon0205](https://github.com/hojoon0205)<br>
 
 ### 팀원
 이름 : 강은수<br>
 학번 : 2019312406<br>
 이메일 : kanges103802@gmail.com<br>
-깃허브 아이디 : Kang-Eunsu<br>
+깃허브 아이디 : [Kang-Eunsu](https://github.com/Kang-Eunsu)<br>
 
 이름 : 김정재<br>
 학번 : 2019314549<br>
 이메일 : 1jeongjae@naver.com<br>
-깃허브 아이디 : kimjeongjae929<br>
+깃허브 아이디 : [kimjeongjae929](https://github.com/kimjeongjae929)<br>
 
 이름 : 김태훈<br>
 학번 : 2018311486<br>
 이메일 : mistercoin@naver.com<br>
-깃허브 아이디 : mistercoin818<br>
+깃허브 아이디 : [mistercoin818](https://github.com/mistercoin818)<br>
 
 이름 : 이동희<br>
 학번 : 2016310200<br>
 이메일 : ehdgml7732@naver.com<br>
-깃허브 아이디 : donghee11<br>
+깃허브 아이디 : [donghee11](https://github.com/donghee11)<br>
 
 ## <div id="about_project">프로젝트 소개</div>
 * python, C 언어를 사용한 Algorithm들의 정리

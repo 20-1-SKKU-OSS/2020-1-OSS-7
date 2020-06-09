@@ -22,7 +22,7 @@ struct list
 			return (BinarySearch(array, mid + 1, last, x));
 	}
 
-	int LinarSearch(int *array, int x)
+	int LinearSearch(int *array, int x)
 	{
 		for (int i = 0; i < top; i++)
 		{
@@ -46,7 +46,7 @@ struct list
 
 		else
 		{
-			pos = LinarSearch(data, x);
+			pos = LinearSearch(data, x);
 		}
 
 		if (pos != -1)
