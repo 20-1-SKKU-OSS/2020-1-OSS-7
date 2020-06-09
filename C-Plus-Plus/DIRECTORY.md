@@ -73,6 +73,10 @@
   * [Searching Of Element In Dynamic Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/searching_of_element_in_dynamic_array.cpp)
   * [Tree Height](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/tree_height.cpp)
 
+## Geometric Algorithms
+  * [Convex Hull](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/geometric_algorithms/ConvexHull.cpp)
+  * [Counter Clockwise](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/geometric_algorithms/Counter_Clockwise.cpp)
+
 ## Graph
   * [Bfs](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/BFS.cpp)
   * [Connected Components](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/connected_components.cpp)
@@ -173,6 +177,7 @@
   * [Fenwicktree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/FenwickTree.cpp)
   * [Mo](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/MO.cpp)
   * [Segtree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/segTree.cpp)
+  * [Segment Tree with Template](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/range_queries/SegTree_template.cpp)
 
 ## Search
   * [Binary Search](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/search/binary_search.cpp)
@@ -234,6 +239,7 @@
   * [11840](https://acmicpc.net/problem/11840), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/11840.cpp)
   * [12728](https://acmicpc.net/problem/12728), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/12728.cpp)
   * [12930](https://acmicpc.net/problem/12930), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/12930.cpp)
+  * [14502](https://acmicpc.net/problem/14502), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/14502.cpp)
    * [14888](https://acmicpc.net/problem/14888), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/14888.cpp)
   * [15879](https://acmicpc.net/problem/15879), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/15879.cpp)
   * [15896](https://acmicpc.net/problem/15896), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/15896.cpp)

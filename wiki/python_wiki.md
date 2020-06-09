@@ -269,6 +269,8 @@
 
 ## Machine Learning
   * [Astar](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/astar.py)
+  	- A star is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. A* selects the path that minimizes f(n)=g(n)+h(n) where n is the next node on the path, g(n) is the cost of the path from the start node to n, and h(n) is a heuristic function that estimates the cost of the cheapest path from n to the goal.
+	- It has found applications in many software systems, from Machine Learning and search Optimization to game development where characters navigate through complex terrain and obstacles to reach the player.
   * [Decision Tree](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/decision_tree.py)
 	- Basic regression decision tree. A decision tree is decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility.
 	- Input data set: 1 - dimensional with continuous labels
@@ -301,12 +303,22 @@
     * [Lstm Prediction](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/lstm/lstm_prediction.py)
 	- LSTM(Long Short Term Memory) is a type of Recurrent Neural Network used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data. A common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. 
   * [Multilayer Perceptron Classifier](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/multilayer_perceptron_classifier.py)
+	- Multilayer perceptron is a class of feedforward artificial neural network(ANN). An MLP consists of at least three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training. Its multiple layers and non-linear perceptron. It can distinguish data that is not linearly separable.
+	- Here use MLPClassfier from sklearn.neural_network 
   * [Polymonial Regression](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/polymonial_regression.py)
+	- Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x).
   * [Random Forest Classifier](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_classifier.py)
+	-  Random forest is an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.
+	- Using iris dataset for Random Forest Classifier example from sklearn.
   * [Random Forest Regressor](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/random_forest_regressor.py)
+	- Using Boston house price dataset for Random Forest Regressor Example from sklearn.
   * [Scoring Functions](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/scoring_functions.py)
+	- In decision theory, a score function measures the accuracy of probabilistic predictions. 
+	- MAE(Mean Absolute Error), MSE(mean Squared Error), RMSE(Root Mean Squared Error), RMSLE(Root Mean Square Logarithmic Error) are included. Those are used for calculating differences between predicted values and actual values. Using log and roots can be preceived as tools for penalizing big errors.
   * [Sequential Minimum Optimization](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/sequential_minimum_optimization.py)
+	- Implementation of sequential minumul(SMO) for support vector machine(SVM). Sequential minimul optimization is an algorithm for solving the quadratic programming problem that arises during the training of supprot vector machines.
   * [Support Vector Machines](https://github.com/TheAlgorithms/Python/blob/master/machine_learning/support_vector_machines.py)
+	- Support Vector Machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier. An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on the side of the gap on which they fall. 
 
 ## Maths
   * [3N Plus 1](https://github.com/TheAlgorithms/Python/blob/master/maths/3n_plus_1.py)
