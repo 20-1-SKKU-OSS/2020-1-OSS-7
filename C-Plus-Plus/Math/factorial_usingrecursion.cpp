@@ -2,13 +2,7 @@
 using namespace std;
 
 int factorial (int n){
-	if(n == 0){
-		int ans = 1;
-		return ans;
-	}
-	else{
-		return n * factorial(n-1);
-	}
+	return (n==0) ? 1 : n*factorial(n-1);
 }
 
 int main(){
