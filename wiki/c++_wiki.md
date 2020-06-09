@@ -42,7 +42,9 @@
   * [List Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/List%20Array.cpp)
 	- Here we use int type array. We can do BinarySearch, LinearSearch, Sort with array.
   * [Morrisinorder](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/MorrisInorder.cpp)
+	- A binary tree is threaded by making every left child pointer (that would otherwise be null) point to the in-order predecessor of the node (if it exists) and every right child pointer (that would otherwise be null) point to the in-order successor of the node (if it exists). Morris traversal is an implementation of in-order traversal that uses threading: 1) Create links to the in-order successor. 2) Print the data using these links. 3) Revert the changes to restore original tree.
   * [Queue Using Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Queue%20Using%20Array.cpp)
+	- Queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence. By convention, the end of the sequence at which elements are added is called the back, tail, or rear of the queue, and the end at which elements are removed is called the head or front of the queue, analogously to the words used when people line up to wait for goods or services. The operations of a queue make it a first-in-first-out (FIFO) data structure. A queue is an example of a linear data structure, or more abstractly a sequential collection. 
   * [Queue Using Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Queue%20Using%20Linked%20List.cpp)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/queue/queue.cpp)
@@ -51,14 +53,19 @@
   * [Queue Using Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/queue_using_array.cpp)
   * [Queue Using Linkedlist](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/queue_using_linkedlist.cpp)
   * [Stack Using Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Stack%20Using%20Array.cpp)
+	- Stack is an abstract data type that serves as a collection of elements, with two principal operations: 1) push, which adds an element to the collection, and 2) pop, which removes the most recently added element that was not yet removed. The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out).
+	- Here using array for stack
   * [Stack Using Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Stack%20Using%20Linked%20List.cpp)
+	- Here using Linked list for stack
   * Stk
     * [Main](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/stk/main.cpp)
     * [Stack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/stk/stack.cpp)
     * [Stack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/stk/stack.h)
     * [Test Stack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/stk/test_stack.cpp)
   * [Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Tree.cpp)
+	- Tree structure is way of representing the hierarchical nature of a structure in a graphical form.
   * [Trie Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/trie_tree.cpp)
+	- A trie, also called digital tree or prefix tree, is a kind of search tree—an ordered tree data structure used to store a dynamic set or associative array where the keys are usually strings. Unlike a binary search tree, no node in the tree stores the key associated with that node; instead, its position in the tree defines the key with which it is associated; i.e., the value of the key is distributed across the structure. All the descendants of a node have a common prefix of the string associated with that node, and the root is associated with the empty string. Keys tend to be associated with leaves, though some inner nodes may correspond to keys of interest. Hence, keys are not necessarily associated with every node.
 
 ## Dynamic Programming
   * [0-1 Knapsack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/dynamic_programming/0-1%20Knapsack.cpp)
