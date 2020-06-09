@@ -77,6 +77,9 @@
   * [Convex Hull](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/geometric_algorithms/ConvexHull.cpp)
   * [Counter Clockwise](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/geometric_algorithms/Counter_Clockwise.cpp)
 
+## Google Code Jam
+  * [Google Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam/archive/2020), [Solutions](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/GoogleCodeJam/2020)
+
 ## Graph
   * [Bfs](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/BFS.cpp)
   * [Connected Components](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/connected_components.cpp)
