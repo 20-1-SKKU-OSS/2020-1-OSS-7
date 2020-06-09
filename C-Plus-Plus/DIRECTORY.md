@@ -226,6 +226,7 @@
   * [Rabin Karp](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/strings/rabin_karp.cpp)
 
 ## Problems from [BOJ](https://acmicpc.net)
+  * [1057](https://acmicpc.net/problem/1057), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1057.cpp)  
   * [1187](https://acmicpc.net/problem/1187), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1187.cpp)
   * [1626](https://acmicpc.net/problem/1626), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/1626.cpp)
   * [2419](https://acmicpc.net/problem/2419), [Source Code](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/BOJ/2419.cpp)
