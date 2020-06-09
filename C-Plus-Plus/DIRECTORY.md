@@ -218,7 +218,7 @@
   * [Oddeven Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/OddEven%20Sort.cpp)
   * [Quick Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Quick%20Sort.cpp)
   * [Radix Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Radix%20Sort.cpp)
-  * [RadixSort_new](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/sorting/RadixSort_new.cpp)
+  * [RadixSort_usingCountSort](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/sorting/RadixSort_usingCountSort.cpp)
   * [Selection Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Selection%20Sort.cpp)
   * [Shell Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Shell%20Sort.cpp)
   * [Slow Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/sorting/Slow%20Sort.cpp)
