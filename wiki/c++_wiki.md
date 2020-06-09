@@ -77,11 +77,15 @@
 
 ## Graph
   * [Bfs](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/BFS.cpp)
+  	- Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root and explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
   * [Connected Components](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/connected_components.cpp)
   * [Connected Components With Dsu](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/connected_components_with_dsu.cpp)
   * [Dfs](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/DFS.cpp)
+  	- Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node and explores as far as possible along each branch before backtracking. This code uses recursion function.
   * [Dfs With Stack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/DFS_with_stack.cc)
+  	- Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node and explores as far as possible along each branch before backtracking. This code uses stack.
   * [Dijkstra](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/Dijkstra.cpp)
+  	- Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph. The algorithm finds the shortest path between that node and every other. It can also be used for finding the shortest paths from a single node to a single destination node by stopping the algorithm once the shortest path to the destination node has been determined. 
   * [Kosaraju](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/kosaraju.cpp)
   * [Kruskal](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/Kruskal.cpp)
   * [Lca](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/graph/lca.cpp)
