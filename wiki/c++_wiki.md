@@ -25,16 +25,22 @@
   * [Binaryheap](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Binaryheap.cpp)
 	- A way of implementing priority queues. A binary heap is complete binary tree and the key stored in each node is either greater than or equal to or less than or equal to the keys in the node's children, according to some total order. To insert, perform an up-heap operation; add the element to the bottom level of the heap at the most left and compare the added element with its parent; if they are in the correct order, stop but not, swap the element with its parent and return to the previous step. To extract, replace the root of the heap with the last element on the last level and compare the new root with its children; if they are in the correct order, stod, if not, swap the element with one of its children and return to the previous step.
   * [Circular Queue Using Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/circular_Queue_using_Linked_List.cpp)
-	- 
+	- Data structure that uses a single, fixed-size buffer as if it were connected end-to-end. This structure lends itself easily to buffering data streams. 
   * Cll
     * [Cll](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/cll/cll.cpp)
     * [Cll](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/cll/cll.h)
     * [Main Cll](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/cll/main_cll.cpp)
   * [Disjoint Set](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/disjoint_set.cpp)
+	- Disjoint sets have no element in common. Equivalently, two disjoint sets are sets whose intersection is the empty set. A collection of more than two sets is called disjoint if any two distinct sets of the collection are disjoint. 
+	- Here using recursive function of Find for finding whether elements are included.
   * [Doubly Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/doubly_linked_list.cpp)
+	- Doubly linked list is a linked data structure that consists of a set of sequentially linked records called nodes. Each node contains three fields: two link fields (references to the previous and to the next node in the sequence of nodes) and one data field. The beginning and ending nodes' previous and next links, respectively, point to some kind of terminator, typically a sentinel node or null, to facilitate traversal of the list. If there is only one sentinel node, then the list is circularly linked via the sentinel node. It can be conceptualized as two singly linked lists formed from the same data items, but in opposite sequential orders. 
   * [Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/linked_list.cpp)
+	- Linked list is a linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence.
   * [Linkedlist Implentation Usingarray](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/linkedList_implentation_usingArray.cpp)
+	- Similar with Linked list, but the differences between the pointer implementation of linked list and array implementation of linked list are 1)The NULL is represented by -1, 2) limited size.
   * [List Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/List%20Array.cpp)
+	- Here we use int type array. We can do BinarySearch, LinearSearch, Sort with array.
   * [Morrisinorder](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/MorrisInorder.cpp)
   * [Queue Using Array](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Queue%20Using%20Array.cpp)
   * [Queue Using Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structure/Queue%20Using%20Linked%20List.cpp)
