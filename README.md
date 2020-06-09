@@ -1,4 +1,8 @@
 # OSS TEAM 7
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/20-1-SKKU-OSS/2020-1-OSS-7/blob/master/C-Plus-Plus/CONTRIBUTION.md)&nbsp;
+![GitHub repo size](https://img.shields.io/github/repo-size/20-1-SKKU-OSS/2020-1-OSS-7?color=red&style=flat-square)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/20-1-SKKU-OSS/2020-1-OSS-7?color=green&style=flat-square)
+
 - [Homepage](#HOME_PAGE)
 - [팀원정보](#Members)
 - [프로젝트 소개](#about_project)
